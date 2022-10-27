@@ -245,7 +245,7 @@ section {
 .cls {
   width: 50px;
   position: relative;
-  left: 700px;
+  left: 720px;
   bottom: 70px;
   cursor: pointer;
 }
@@ -642,7 +642,7 @@ section {
   }
 
   .kontakt {
-    grid-template-columns: 2.5rem 4rem 17rem;
+    grid-template-columns: 3rem 4rem 15rem;
     gap: 10px;
   }
 
@@ -694,6 +694,10 @@ section {
     top: 20px;
     right: 10px;
     width: 250px;
+  }
+
+  .kontakt {
+    grid-template-columns: 3rem 5rem 13rem;
   }
 }
 
